@@ -54,7 +54,7 @@ Foram muitos os aprendizados com o curso disponibilizado pela Rocketseat, vou de
 
 [Para verificar se os recursos desejados para uso, quais são às versões suportadas](https://caniuse.com/)
 
-[Para usar ícones de código aberto](https://ionic.io/ionicons) ()
+[Para usar ícones de código aberto](https://ionic.io/ionicons)
 
 E como viver é aprender, achei sensacional a função toggle do JS - [Documentação.](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle)
 
